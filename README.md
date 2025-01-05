@@ -26,7 +26,7 @@
 			     
 	a.Write a program to apply different types of selector forms:
 			     
-		i.	Simple selector (element, id, class, group, universal)
+		i.Simple selector (element, id, class, group, universal)
 		ii.	Combinator selector (descendant, child, adjacent sibling, general sibling)
 		iii.	Pseudo-class selector
 		iv.	Pseudo-element selector
