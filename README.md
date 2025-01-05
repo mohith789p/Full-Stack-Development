@@ -2,34 +2,34 @@
 
 ## 1.Lists, Links and Images:
    
-	a.Write a HTML program, to explain the working of lists.
-	b.Note: It should have an ordered list, unordered list, nested lists and ordered list in an unordered list and definition lists.
-	c.Write a HTML program, to explain the working of hyperlinks using <a> tag and href, target Attributes.
-	d.Create a HTML document that has your image and your friend’s image with a specific height and width. Also when clicked on the images it should navigate to their respective profiles.
-	e.Write a HTML program, in such a way that, rather than placing large images on a page, the preferred technique is to use thumbnails by setting the height and width parameters to something like to 100*100 pixels. Each thumbnail image is also a link to a full sized version of the image. Create an image gallery using this technique
+	a. Write a HTML program, to explain the working of lists.
+	b. Note: It should have an ordered list, unordered list, nested lists and ordered list in an unordered list and definition lists.
+	c. Write a HTML program, to explain the working of hyperlinks using <a> tag and href, target Attributes.
+	d. Create a HTML document that has your image and your friend’s image with a specific height and width. Also when clicked on the images it should navigate to their respective profiles.
+	e. Write a HTML program, in such a way that, rather than placing large images on a page, the preferred technique is to use thumbnails by setting the height and width parameters to something like to 100*100 pixels. Each thumbnail image is also a link to a full sized version of the image. Create an image gallery using this technique
 
 ## 2.HTML Tables, Forms and Frames:
    
-	a.Write a HTML program, to explain the working of tables. (use tags: <table>, <tr>, <th>, <td> and attributes: border, rowspan, colspan)
-	b.Write a HTML program, to explain the working of tables by preparing a timetable. (Note: Use <caption> tag to set the caption to the table & also use cell spacing, cell padding, border, rowspan, colspan etc.).
-	c.Write a HTML program, to explain the working of forms by designing Registration form. (Note: Include text field, password field, number field, date of birth field, checkboxes, radio buttons, list boxes using <select>&<option> tags, <text area> and two buttons ie: submit and reset. Use tables to provide a better view).
-	d.Write a HTML program, to explain the working of frames, such that page is to be divided into 3 parts on either direction. (Note: first frame  image, second frame  paragraph, 			  third frame  hyperlink. And also make sure of using “no frame” attribute such that frames to be fixed).
+	a. Write a HTML program, to explain the working of tables. (use tags: <table>, <tr>, <th>, <td> and attributes: border, rowspan, colspan)
+	b. Write a HTML program, to explain the working of tables by preparing a timetable. (Note: Use <caption> tag to set the caption to the table & also use cell spacing, cell padding, border, rowspan, colspan etc.).
+	c. Write a HTML program, to explain the working of forms by designing Registration form. (Note: Include text field, password field, number field, date of birth field, checkboxes, radio buttons, list boxes using <select>&<option> tags, <text area> and two buttons ie: submit and reset. Use tables to provide a better view).
+	d. Write a HTML program, to explain the working of frames, such that page is to be divided into 3 parts on either direction. (Note: first frame  image, second frame  paragraph, 			  third frame  hyperlink. And also make sure of using “no frame” attribute such that frames to be fixed).
 				
 ## 3.HTML 5 and Cascading Style Sheets, Types of CSS:
 	
-	a.Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
-	b.Write a HTML program, to embed audio and video into HTML web page.
-	c.Write a program to apply different types (or levels of styles or style specification formats) - inline, internal, external styles to HTML elements. (identify selector, property and value).
+	a. Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
+	b. Write a HTML program, to embed audio and video into HTML web page.
+	c. Write a program to apply different types (or levels of styles or style specification formats) - inline, internal, external styles to HTML elements. (identify selector, property and value).
 			     
 ## 4.Selector Forms :
 			     
-	a.Write a program to apply different types of selector forms:
+	a. Write a program to apply different types of selector forms:
 			     
-		i.Simple selector (element, id, class, group, universal)
-		ii.Combinator selector (descendant, child, adjacent sibling, general sibling)
-		iii.Pseudo-class selector
-		iv.Pseudo-element selector
-		v.Attribute selector
+		i. Simple selector (element, id, class, group, universal)
+		ii. Combinator selector (descendant, child, adjacent sibling, general sibling)
+		iii. Pseudo-class selector
+		iv. Pseudo-element selector
+		v. Attribute selector
 			     
 ## 5.CSS with Color, Background, Font, Text and CSS Box Model:
 			     
