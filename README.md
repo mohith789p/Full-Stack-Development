@@ -17,10 +17,9 @@
 				
 ## 3.HTML 5 and Cascading Style Sheets, Types of CSS:
 	
-	a.	Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
-	b.	Write a HTML program, to embed audio and video into HTML web page.
-	c.Write a program to apply different types (or levels of styles or style specification formats) 
- 	- inline, internal, external styles to HTML elements. (identify selector, property and value).
+	a.Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
+	b.Write a HTML program, to embed audio and video into HTML web page.
+	c.Write a program to apply different types (or levels of styles or style specification formats)- inline, internal, external styles to HTML elements. (identify selector, property and value).
 			     
 ## 4.Selector Forms :
 			     
