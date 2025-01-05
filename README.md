@@ -19,7 +19,7 @@
 	
 	a.Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
 	b.Write a HTML program, to embed audio and video into HTML web page.
-	c.Write a program to apply different types (or levels of styles or style specification formats)- inline, internal, external styles to HTML elements. (identify selector, property and value).
+	c.Write a program to apply different types (or levels of styles or style specification formats) - inline, internal, external styles to HTML elements. (identify selector, property and value).
 			     
 ## 4.Selector Forms :
 			     
@@ -66,7 +66,7 @@
 	c. Write a program to print 1 to 10 numbers using for, while and do-while loops.
 	d. Write aprogram to print data in object using for-in, for-each and for-of loops
 	e. Develop a program to determine whether a given number is an ‘ARMSTRONG NUMBER’ or not. [Eg: 153 is an Armstrong number, since sum of the cube of the digits is equal to the number i.e.,13 + 53+ 33 = 153]
-	f.Write a program to display the denomination of the amount deposited in the bank in terms of 100’s, 50’s, 20’s, 10’s, 5’s, 2’s & 1’s. (Eg: If deposited amount is Rs.163, the output should be 1 100’s, 1-50’s, 1- 10’s, 1-2’s & 1-1’s)
+	f. Write a program to display the denomination of the amount deposited in the bank in terms of 100’s, 50’s, 20’s, 10’s, 5’s, 2’s & 1’s. (Eg: If deposited amount is Rs.163, the output should be 1 100’s, 1-50’s, 1- 10’s, 1-2’s & 1-1’s)
   
 ## 9.Java Script Functions and Events:
 
