@@ -19,7 +19,7 @@
 	
 	a.	Write a HTML program, that makes use of <article>, <aside>, <figure>, <figcaption>, <footer>, <header>, <main>, <nav>, <section>, <div>, <span> tags.
 	b.	Write a HTML program, to embed audio and video into HTML web page.
-	c.	Write a program to apply different types (or levels of styles or style specification formats) 
+	c.Write a program to apply different types (or levels of styles or style specification formats) 
  	- inline, internal, external styles to HTML elements. (identify selector, property and value).
 			     
 ## 4.Selector Forms :
@@ -27,10 +27,10 @@
 	a.Write a program to apply different types of selector forms:
 			     
 		i.Simple selector (element, id, class, group, universal)
-		ii.	Combinator selector (descendant, child, adjacent sibling, general sibling)
-		iii.	Pseudo-class selector
-		iv.	Pseudo-element selector
-		v.	Attribute selector
+		ii.Combinator selector (descendant, child, adjacent sibling, general sibling)
+		iii.Pseudo-class selector
+		iv.Pseudo-element selector
+		v.Attribute selector
 			     
 ## 5.CSS with Color, Background, Font, Text and CSS Box Model:
 			     
