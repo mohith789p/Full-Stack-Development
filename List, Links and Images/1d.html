@@ -3,50 +3,57 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Image Navigation</title>
+    <title>Thumbnails</title>
     <style>
-      body {
-        display: grid;
-        grid-row: auto;
-        place-items: center;
-        height: 100vh;
-        margin: 0;
-        background-color: #ddd;
-      }
-      .profiles {
+      .gallery {
         display: flex;
-        flex-direction: row;
-        gap: 100px;
+        flex-wrap: wrap;
+        gap: 10px;
+        align-items: center;
+        justify-content: center;
       }
-      img {
-        height: "650";
-        width: "650";
-        border-radius: 30%;
+      .gallery img {
+        width: 250px;
+        height: 250px;
+        object-fit: cover;
+        border: 2px solid #ddd;
+        border-radius: 25%;
       }
     </style>
   </head>
   <body>
-    <div class="profiles">
-      <div class="profile">
-        <a
-          href="https://www.linkedin.com/in/potnuru-mohith/?originalSubdomain=in"
-        >
-          <img
-            src="https://media.licdn.com/dms/image/v2/D4D03AQGnPrzTmNwk7g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727860801723?e=1742428800&v=beta&t=WkVtO8huI5n5lkAQ1LLCv0EieCRU8QqB8_0CT0S-6P4"
-            alt="Your Profile"
-          />
-          <center><h1>P Mohith</h1></center></a
-        >
-      </div>
-      <div class="profile">
-        <a href="https://www.linkedin.com/in/rakesh-regala-13a8382b7/">
-          <img
-            src="https://media.licdn.com/dms/image/v2/D4D03AQHwpAmV1mfWTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720680447774?e=1742428800&v=beta&t=9n8cjk-DnMugVp7REuVJ2lBsNm2J4nD4L54uUhTX6bY"
-            alt="Your Friend Profile"
-          />
-          <center><h1>R Rakesh</h1></center></a
-        >
-      </div>
+    <center><h1>Image Gallery</h1></center>
+    <div class="gallery">
+      <a href="../images/tiger.jpg" target="_blank"
+        ><img src="../images/tigerThumb.png" alt="img1"
+      /></a>
+      <a href="../images/horse.jpeg" target="_blank"
+        ><img src="../images/horseThumb.png" alt="img2"
+      /></a>
+      <a href="../images/lion.jpeg" target="_blank"
+        ><img src="../images/lionThumb.png" alt="img3"
+      /></a>
+      <a href="../images/bear.jpg" target="_blank"
+        ><img src="../images/bearThumb.png" alt="img4"
+      /></a>
+      <a href="../images/elephant.jpg" target="_blank"
+        ><img src="../images/elephantThumb.png" alt="img1"
+      /></a>
+      <a href="../images/zebra.jpg" target="_blank"
+        ><img src="../images/zebraThumb.png" alt="img2"
+      /></a>
+      <a href="../images/kangaroo.jpg" target="_blank"
+        ><img src="../images/kangarooThumb.png" alt="img4"
+      /></a>
+      <a href="../images/deer.jpeg" target="_blank"
+        ><img src="../images/deerThumb.png" alt="img3"
+      /></a>
+      <a href="../images/pandas.jpg" target="_blank"
+        ><img src="../images/pandasThumb.png" alt="img4"
+      /></a>
+      <a href="../images/fox.jpg" target="_blank"
+        ><img src="../images/foxThumb.png" alt="img3"
+      /></a>
     </div>
   </body>
 </html>

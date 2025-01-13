@@ -3,36 +3,50 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>HTML Hyperlinks</title>
+    <title>Image Navigation</title>
+    <style>
+      body {
+        display: grid;
+        grid-row: auto;
+        place-items: center;
+        height: 100vh;
+        margin: 0;
+        background-color: #ddd;
+      }
+      .profiles {
+        display: flex;
+        flex-direction: row;
+        gap: 100px;
+      }
+      img {
+        height: "650";
+        width: "650";
+        border-radius: 30%;
+      }
+    </style>
   </head>
   <body>
-    <h1>HTML Hyperlinks Demonstration</h1>
-    <p>
-      Hyperlinks in HTML are created using the &lt;a&gt; tag with the
-      <sub>href</sub> attribute to specify the link destination. The
-      <sub>target</sub> attribute determines how the link is opened.
-    </p>
-    <h2>Basic Hyperlink</h2>
-    <p>
-      Visit the <a href="https://www.google.com">Google </a>website. (Opens in
-      the same tab.)
-    </p>
-    <h2>Open Link in a New Tab</h2>
-    <p>
-      Visit the
-      <a href="https://www.wikipedia.org" target="_blank">Wikipedia </a>website.
-      (Opens in a new tab.)
-    </p>
-    <h2>Open Link in a Parent Frame</h2>
-    <p>
-      If this page is inside a frame, visit
-      <a href="https://www.example.com" target="_parent">Example </a>in the
-      parent frame.
-    </p>
-    <h2>Open Link in a Full Window</h2>
-    <p>
-      Visit <a href="https://www.bbc.com" target="_top">BBC NEWS </a>to load in
-      the full browser window.
-    </p>
+    <div class="profiles">
+      <div class="profile">
+        <a
+          href="https://www.linkedin.com/in/potnuru-mohith/?originalSubdomain=in"
+        >
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4D03AQGnPrzTmNwk7g/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727860801723?e=1742428800&v=beta&t=WkVtO8huI5n5lkAQ1LLCv0EieCRU8QqB8_0CT0S-6P4"
+            alt="Your Profile"
+          />
+          <center><h1>P Mohith</h1></center></a
+        >
+      </div>
+      <div class="profile">
+        <a href="https://www.linkedin.com/in/rakesh-regala-13a8382b7/">
+          <img
+            src="https://media.licdn.com/dms/image/v2/D4D03AQHwpAmV1mfWTw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1720680447774?e=1742428800&v=beta&t=9n8cjk-DnMugVp7REuVJ2lBsNm2J4nD4L54uUhTX6bY"
+            alt="Your Friend Profile"
+          />
+          <center><h1>R Rakesh</h1></center></a
+        >
+      </div>
+    </div>
   </body>
 </html>
