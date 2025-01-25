@@ -13,7 +13,7 @@
 	a. Write a HTML program, to explain the working of tables. (use tags: <table>, <tr>, <th>, <td> and attributes: border, rowspan, colspan)
 	b. Write a HTML program, to explain the working of tables by preparing a timetable. (Note: Use <caption> tag to set the caption to the table & also use cell spacing, cell padding, border, rowspan, colspan etc.).
 	c. Write a HTML program, to explain the working of forms by designing Registration form. (Note: Include text field, password field, number field, date of birth field, checkboxes, radio buttons, list boxes using <select>&<option> tags, <text area> and two buttons ie: submit and reset. Use tables to provide a better view).
-	d. Write a HTML program, to explain the working of frames, such that page is to be divided into 3 parts on either direction. (Note: first frame  image, second frame  paragraph, 			  third frame  hyperlink. And also make sure of using “no frame” attribute such that frames to be fixed).
+	d. Write a HTML program, to explain the working of frames, such that page is to be divided into 3 parts on either direction. (Note: first frame  image, second frame  paragraph, third frame  hyperlink. And also make sure of using “no frame” attribute such that frames to be fixed).
 				
 ## 3.HTML 5 and Cascading Style Sheets, Types of CSS:
 	
